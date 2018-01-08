@@ -6,7 +6,7 @@ have getter and setter for a bunch of properties that represent data.
 Installation
 ====
 ```sh
-# composer intstall eppak/value
+# composer install eppak/value
 ```
 
 Constructor
