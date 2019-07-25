@@ -1,6 +1,6 @@
 Intro
 ====
-This is a smart value object, is useful to transport and manipulate data. Usually a value object
+This is a smart dto object, is useful to transport and manipulate data. Usually a value object
 have getter and setter for a bunch of properties that represent data. 
 
 Installation
