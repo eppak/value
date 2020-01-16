@@ -1,7 +1,7 @@
 {
   "name": "eppak/value",  
   "description": "Value Object Helper",
-  "version": "1.0.0.0"
+  "version": "1.0.0.0",
   "license": "MIT",
   "keywords": [
     "smart object", "value object", "helpers"
